@@ -16,7 +16,7 @@
 			"location": {
 				"type": "HttpServerLocation",
 				"relativeUrl": {
-					"value": "Shindepratik02/netflixprojectazure/refs/heads/main/netflixdataset/@{dataset().file}.csv",
+					"value": "Shindepratik02/netflixprojectazure/refs/heads/main/netflixdataset/@{dataset().file_name}",
 					"type": "Expression"
 				}
 			},
