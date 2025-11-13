@@ -59,7 +59,7 @@
 							},
 							"inputs": [
 								{
-									"referenceName": "DelimitedText1",
+									"referenceName": "Github_dataset",
 									"type": "DatasetReference",
 									"parameters": {
 										"file_name": {
@@ -71,7 +71,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "DelimitedText2",
+									"referenceName": "Dl_dataset",
 									"type": "DatasetReference",
 									"parameters": {
 										"folder_name": {
