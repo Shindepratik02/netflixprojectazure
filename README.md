@@ -1,4 +1,4 @@
-This project adds data from source-- github and loads dynamic data into ADLS and then with Autloader,transformations using pyspark and DLT pipleine 
+
 <img width="890" height="220" alt="image" src="https://github.com/user-attachments/assets/c527a33a-aa2a-4edb-845b-dec418db33be" />
 
 <img width="945" height="320" alt="image" src="https://github.com/user-attachments/assets/acb7aaa7-1446-458f-ac28-172cd775824d" />
